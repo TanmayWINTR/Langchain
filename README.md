@@ -1,7 +1,7 @@
-# BedrockPDFQueryLangChain
+# PDFQueryLangChain
 
 ## Overview
-BedrockPDFQueryLangChain is a cutting-edge solution designed to revolutionize the way users interact with PDF documents, specifically focusing on the Amazon Bedrock user guide. By leveraging the power of LangChain and OpenAI, this project enables sophisticated querying capabilities, allowing users to extract valuable insights and answers directly from the PDF content.
+ PDFQueryLangChain is a cutting-edge solution designed to revolutionize the way users interact with PDF documents, specifically focusing on the Amazon Bedrock user guide. By leveraging the power of LangChain and OpenAI, this project enables sophisticated querying capabilities, allowing users to extract valuable insights and answers directly from the PDF content.
 
 ## Key Features
 - **Advanced PDF Querying**: Utilize natural language queries to find precise information within the Amazon Bedrock user guide.
